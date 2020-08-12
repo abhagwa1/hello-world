@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Atharva Bhagwat
+Student at Hopkins
+Learning R through Coursera
